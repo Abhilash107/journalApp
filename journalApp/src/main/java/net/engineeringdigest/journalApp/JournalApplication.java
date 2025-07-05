@@ -13,3 +13,8 @@ public class JournalApplication {
 
 
 }
+//@SpringBootApplication -> only in main app
+// working -> @Configuration, @EnableAutoConfiguration, @ComponentScan
+
+
+
